@@ -112,7 +112,7 @@
             <td><a href="tel:+491605247298" style="color: #262626; font-size:15px;  text-decoration: none;">0160 | 524 729 8 </a></td>
         </tr>
         <tr>
-            <td>Mail:&#x2002;</td>
+            <td style="font-size: 15px; color: #262626;">Mail:&#x2002;</td>
             <td><a href="mailto:hake@seg-niederkassel.de" style="color: #262626; text-decoration: none; font-size: 15px;">hake@seg-niederkassel.de</a></td>
         </tr>
     </tbody>    
